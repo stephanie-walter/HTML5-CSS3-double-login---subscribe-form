@@ -1,0 +1,5 @@
+I wanted to play around with CSS3 new pseudo class and was wondering what I could do with some :target when I tought it could be used to display/hide a form. The :target pseudo class is used with anchor urls, but with a little hack on it, it can be used to toogle the visibility of an element. There's also a nice transition between the two forms. This is full CSS3 HTML5 form, I only used an iconic font and a little data-icon trick to display the icons.
+
+You can see the tutorial (with some code modification) on codrops : http://tympanus.net/codrops/2012/03/27/login-and-registration-form-with-html5-and-css3/
+See the demo : http://www.inpixelitrust.fr/demos/login-subscribe-CSS3-target-form/
+Contact me : http://www.inpixelitrust.fr/me-contacter/
